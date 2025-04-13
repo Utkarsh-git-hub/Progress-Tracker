@@ -1,0 +1,18 @@
+.dashboard-container {
+    margin-top: 30px;
+  }
+  
+  .video-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .video-item {
+    margin-bottom: 10px;
+  }
+  
+  .video-item a {
+    color: #4caf50;
+    font-size: 18px;
+  }
+  

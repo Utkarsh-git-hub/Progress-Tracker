@@ -5,3 +5,5 @@ const videoSchema = new mongoose.Schema({
   videoSrc: String,
   duration: Number
 });
+
+export default mongoose.model('Video', videoSchema);
