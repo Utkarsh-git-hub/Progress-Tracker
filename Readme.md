@@ -50,5 +50,4 @@ Instead of relying on traditional progress tracking, I use a **Set-based approac
 
 ---
 
-## 🔎 Folder Structure
 
