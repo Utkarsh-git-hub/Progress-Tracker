@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="navbar-brand">Video Tracker</Link>
+        <Link to="/" className="navbar-brand">Progress Tracker</Link>
         <div>
           {user ? (
             <>
